@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi there, my name is Manmohan. I was first introduced to web development in 2012 in high school which triggered my interest in coding so I decided to pursue Computer Science Engineering. Entered the industry in 2017 and was amazed to see how things actually worked in real life coupled with each other. Started the first job working as full stack web developer where I worked with a lot of technologies including PHP, jQuery, Angular, MySQL, MongoDB, Python. After a while I realised my interest leaning more towards frontend development. Fast forward to 2020, just before the Covid era, switched to a new organisation as a UI Developer. And here we are now, a happy and satisfied UI developer who loves to explore new emerging technologies and frameworks.
+
+Learning and growing since the beginning. 
+
+Things that helped me grow is the eagerness to learn new stuff and critical eye for user experience and interface.
+
+Interests - recently discovered love for travelling and meeting new people. And definitely love for music.
+
+
 <!--
 **Manmohan7/manmohan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
