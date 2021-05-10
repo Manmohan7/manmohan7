@@ -66,6 +66,11 @@
     </a>
   </code>
   <code>
+    <a href="mailto:er.manmohansingh7@gmail.com" target="_blank">
+      <img src="./assets/gmail.png" width="38">
+    </a>
+  </code>
+  <code>
     <a href="https://open.spotify.com/user/31lc3izje4h6uu5gtndt7o7ktwcm" target="_blank">
       <img src="./assets/spotify.png" width="38">
     </a>
