@@ -39,6 +39,7 @@
   <img src="./assets/c.png" alt="C" width="38">
   <img src="./assets/cpp.png" alt="C++" width="38">
   <img src="./assets/java.png" alt="Java" width="38">
+  <img src="./assets/android.png" alt="Android" width="38">
   <img src="./assets/php.png" alt="PHP" width="38">
   <img src="./assets/python.png" alt="Python" width="38">
   <img src="./assets/mysql.png" alt="MySQL" width="38">
