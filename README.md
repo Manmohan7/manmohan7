@@ -28,11 +28,9 @@
   <img src="./assets/css.png" alt="CSS" width="38">
   <img src="./assets/bootstrap.png" alt="Bootstrap" width="38">
   <img src="./assets/sass.png" alt="SASS" width="38">
-  <br />
   <img src="./assets/javascript.png" alt="Javascript" width="38">
   <img src="./assets/jquery.png" alt="jQuery" width="38">
   <img src="./assets/typescript.png" alt="Typescript" width="38">
-  <br />
   <img src="./assets/vue.png" alt="Vue" width="38">
   <img src="./assets/nuxt.png" alt="Nuxt" width="38">
   <img src="./assets/react.png" alt="React" width="38">
@@ -43,7 +41,6 @@
   <img src="./assets/java.png" alt="Java" width="38">
   <img src="./assets/php.png" alt="PHP" width="38">
   <img src="./assets/python.png" alt="Python" width="38">
-  <br />
   <img src="./assets/mysql.png" alt="MySQL" width="38">
   <img src="./assets/mongodb.png" alt="MongoDB" width="38">
   <img src="./assets/bigquery.png" alt="Google BigQuery" width="38">
