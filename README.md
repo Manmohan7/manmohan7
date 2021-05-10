@@ -23,26 +23,28 @@
 
 ### Technologies worked on
 
-<img src="./assets/html.png" alt="HTML" width="32">
-<img src="./assets/css.png" alt="CSS" width="32">
-<img src="./assets/bootstrap.png" alt="Bootstrap" width="32">
-<img src="./assets/sass.png" alt="SASS" width="32">
-<br />
-<img src="./assets/javascript.png" alt="Javascript" width="32">
-<img src="./assets/typescript.png" alt="Typescript" width="32">
-<img src="./assets/vue.png" alt="Vue" width="32">
-<img src="./assets/nuxt.png" alt="Nuxt" width="32">
-<img src="./assets/react.png" alt="React" width="32">
-<img src="./assets/angular.png" alt="Angular" width="32">
-<br />
-<img src="./assets/c.png" alt="C" width="32">
-<img src="./assets/cpp.png" alt="C++" width="32">
-<img src="./assets/java.png" alt="Java" width="32">
-<img src="./assets/php.png" alt="PHP" width="32">
-<img src="./assets/python.png" alt="Python" width="32">
-<br />
-<img src="./assets/mysql.png" alt="MySQL" width="32">
-<img src="./assets/mongodb.png" alt="MongoDB" width="32">
+<div>
+  <img src="./assets/html.png" alt="HTML" width="32">
+  <img src="./assets/css.png" alt="CSS" width="32">
+  <img src="./assets/bootstrap.png" alt="Bootstrap" width="32">
+  <img src="./assets/sass.png" alt="SASS" width="32">
+  <br />
+  <img src="./assets/javascript.png" alt="Javascript" width="32">
+  <img src="./assets/typescript.png" alt="Typescript" width="32">
+  <img src="./assets/vue.png" alt="Vue" width="32">
+  <img src="./assets/nuxt.png" alt="Nuxt" width="32">
+  <img src="./assets/react.png" alt="React" width="32">
+  <img src="./assets/angular.png" alt="Angular" width="32">
+  <br />
+  <img src="./assets/c.png" alt="C" width="32">
+  <img src="./assets/cpp.png" alt="C++" width="32">
+  <img src="./assets/java.png" alt="Java" width="32">
+  <img src="./assets/php.png" alt="PHP" width="32">
+  <img src="./assets/python.png" alt="Python" width="32">
+  <br />
+  <img src="./assets/mysql.png" alt="MySQL" width="32">
+  <img src="./assets/mongodb.png" alt="MongoDB" width="32">
+</div>
 
 <!-- ### Let's connect -->
 
