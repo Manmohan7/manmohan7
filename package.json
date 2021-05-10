@@ -1,0 +1,22 @@
+{
+  "name": "manmohan7",
+  "version": "1.0.0",
+  "description": "Hi, my name is Manmohan. I was first introduced to web development in 2012 in high school which triggered my interest in coding so I decided to pursue Computer Science Engineering.",
+  "main": "github-markdown.css",
+  "scripts": {
+    "make": "github-markdown-css > github-markdown.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manmohan7/manmohan7.git"
+  },
+  "author": "Manmohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manmohan7/manmohan7/issues"
+  },
+  "homepage": "https://github.com/Manmohan7/manmohan7#readme",
+  "dependencies": {
+    "generate-github-markdown-css": "^4.0.0"
+  }
+}
