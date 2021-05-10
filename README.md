@@ -2,23 +2,23 @@
 
 <p>Hi, my name is <em>Manmohan</em>. I was first introduced to web development in 2012 in high school which triggered my interest in coding so I decided to pursue Computer Science Engineering.</p>
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" align="right">
-<p>During my graduation, along with learning different languages, I enjoyed managing events during college fests and other miscellaneous occasions.</p>
+<p>During my graduation 🤓, along with learning different languages, I enjoyed managing events during college fests and other miscellaneous occasions.</p>
 <p>Entered the industry in 2017 and was amazed to see how things actually worked in real life coupled with each other.</p>
-<p>Started the first job working as full stack web developer where I got the chance to work with a lot of technologies including jQuery, Angular, PHP, Python, MySQL, MongoDB.</p>
+<p>Started the first job 💪 working as full stack web developer where I got the chance to work with a lot of technologies 🤯 including jQuery, Angular, PHP, Python, MySQL, MongoDB.</p>
 <p>After a while I realised my interest leaning more towards frontend development.</p>
 <p>Fast forward to 2020, just before the Covid era, switched to a new organisation as a UI Developer. And here we are now, an enthusiastic UI developer who loves to explore new frameworks and emerging technologies.<p>
 
 
-### Things that helped me grow
+### Things that helped me grow :sunglasses:
 
-* the eagerness to learn new stuff
-* critical eye for user experience and interface.
+* the eagerness to learn new stuff 📖
+* critical eye for user experience and interface 
 
 
-### Interests
+### Interests :heart_eyes:
 
-* recently discovered love for travelling and meeting new people
-* definitely love for music.
+* recently discovered love for travelling 🚲 and meeting new people
+* definitely love for music 🎵
 
 
 ### Technologies worked on
