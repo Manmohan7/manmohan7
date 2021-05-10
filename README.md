@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p>Hi, my name is <em>Manmohan</em>. I was first introduced to web development in 2012 in high school which triggered my interest in coding so I decided to pursue Computer Science Engineering.</p>
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" align="right">
+<img src="./assets/code.gif" width="40%" align="right">
 <p>During my graduation 🤓, along with learning different languages, I enjoyed managing events during college fests and other miscellaneous occasions.</p>
 <p>Entered the industry in 2017 and was amazed to see how things actually worked in real life coupled with each other.</p>
 <p>Started the first job 💪 working as full stack web developer where I got the chance to work with a lot of technologies 🤯 including jQuery, Angular, PHP, Python, MySQL, MongoDB.</p>
