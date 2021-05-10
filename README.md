@@ -51,22 +51,22 @@
 
 <div>
   <code>
-    <a href="https://www.linkedin.com/in/ermanmohan7/">
+    <a href="https://www.linkedin.com/in/ermanmohan7/" target="_blank">
       <img src="./assets/linkedin.png" width="38">
     </a>
   </code>
   <code>
-    <a href="https://twitter.com/ermanmohan7">
+    <a href="https://twitter.com/ermanmohan7" target="_blank">
       <img src="./assets/twitter.png" width="38">
     </a>
   </code>
   <code>
-    <a href="https://www.facebook.com/manmohan7">
+    <a href="https://www.facebook.com/manmohan7" target="_blank">
       <img src="./assets/facebook.png" width="38">
     </a>
   </code>
   <code>
-    <a href="https://open.spotify.com/user/31lc3izje4h6uu5gtndt7o7ktwcm">
+    <a href="https://open.spotify.com/user/31lc3izje4h6uu5gtndt7o7ktwcm" target="_blank">
       <img src="./assets/spotify.png" width="38">
     </a>
   </code>
